@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Vedanti Patil!
+- 🔭 I’m currently working on AI applications that use agentic frameworks and integrate existing APIs!
+- 🌱 I’m currently learning Full-Stack JavaScript Development with MongoDB, Node, and React 
+- 📫 How to reach me: https://www.linkedin.com/in/vedanti-patil-038661186/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a double major in Computer Science and Filmmaking!
+
 
 <!--
 **VedantiPat/VedantiPat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
